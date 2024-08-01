@@ -1,0 +1,44 @@
+.header{
+    background-color: #61ADA0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    width: 100px;
+    height: 100%;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.navBar{
+    margin-right: 30px;
+}
+
+.navItems{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.navItem{
+    font-size: 1.2em;
+    font-weight: bolder;
+    padding: 10px;
+    margin: 20px;
+}
+
+.navItem a {
+    color: #605063;
+    text-decoration: none;
+}
+
+.navItem a:hover{
+    color: #fff;
+    transition: .3s;
+}
+
