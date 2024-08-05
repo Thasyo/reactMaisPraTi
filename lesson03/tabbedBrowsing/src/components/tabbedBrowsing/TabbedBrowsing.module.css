@@ -1,0 +1,14 @@
+.btns{
+    margin: 10px;
+}
+
+.btn{
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.content{
+    font-size: 3em;
+}
